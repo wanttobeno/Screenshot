@@ -1,7 +1,7 @@
 
 ##### 说明
 
-硬盘上的一份截图代码，作者是sudami。
+硬盘上的一份截图代码，作者是[sudami](https://bbs.pediy.com/thread-54302.htm)。
 
 提取了里面的3个类CatchScreenDlg、MyTracker.h，MyEdit，自己在实现下。
 
